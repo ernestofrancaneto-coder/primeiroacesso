@@ -1,13 +1,9 @@
-# bem vindo ao meu mundinho 🧩
+# Bem vindo ao meu mundinho 🧩
 
 
-- meu nome é neto cafeta
-
-
-- tenho 15
-
-  
-- gostode ver [UFC](https://www.ufc.com.br/)
+- Meu nome é neto cafeta
+- Tenho 15
+- Gosto de ver [UFC](https://www.ufc.com.br/)
 
 # Entre em contato comigo pelo meu email!
 
