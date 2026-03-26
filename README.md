@@ -1,7 +1,7 @@
 # Bem vindo ao meu mundinho 🧩
 
 
-- Meu nome é Neto cafeta😈
+- Meu nome é Neto cafeta 😈
 
 - Tenho 15
 
