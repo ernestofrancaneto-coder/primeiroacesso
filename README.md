@@ -1,8 +1,10 @@
 # Bem vindo ao meu mundinho 🧩
 
 
-- Meu nome é neto cafeta
+- Meu nome é Neto cafeta😈
+
 - Tenho 15
+
 - Gosto de ver [UFC](https://www.ufc.com.br/)
 
 # Entre em contato comigo pelo meu email!
